@@ -1,0 +1,196 @@
+/*.area1{
+    margin:0 50px 0 50px;
+    height: 500px;
+    max-width: 1100px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+    box-shadow: 0 0 10px #333;
+    padding: 0px 30px;
+    border-radius: 20px;
+
+}*/
+
+.area1{
+  background-image: url("../IMAGES/wallpaper 3.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: -55px;
+  filter: blur(5px);
+}
+
+form
+{
+  display: block;
+  position: absolute;
+  transform: translate(135%,-129%);
+  max-width: 400px;
+    width: 100%;
+    padding: 0px 30px;
+
+    border-radius: 20px;
+    background-color: rgba(0,0,0,0.5);
+    justify-content: center;
+    align-items: center;
+
+
+}
+.main form .title
+{
+  margin-left: 5px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 5px;
+    font-size: 30px;
+    color: #ffff;
+    text-shadow: 0 0 4px #333;
+    font-weight: 600;
+    position: relative;
+}
+.main form .details
+{
+  display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.email
+{
+  margin-left: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+
+
+}
+.email .icon
+{
+      position:absolute;
+      padding:13px 8px;
+}
+.email input
+{
+      padding: 5px 10px 5px 35px;
+      margin-top: 0;
+      margin-bottom: 0;
+      width:130%;
+      height:30px;
+      border-radius: 20px;
+}
+.password
+{
+  margin-left: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+
+}
+
+.password .icon2
+{
+  position:absolute;
+  padding:13px 8px;
+}
+.password input
+{
+      padding: 5px 10px 5px 35px;
+      margin-top: 0;
+      width:130%;
+      height:30px;
+      border-radius: 20px;
+}
+.signin
+{
+      text-align:center;
+      margin-bottom:25px;
+
+}
+.signin input
+{
+  
+      width:50%;
+      height:50px;
+      border-radius: 25px;
+      background-size: 40px 40px;
+      margin: 10px 85px 0 0;
+      /*padding: 5px 10px 5px 35px;*/
+}
+.signin input:hover
+{
+      background-color: #008000;
+}
+/*form{
+  position: absolute;
+  display:block;
+  transform: translate(130%,-108%);
+
+}
+form .title{
+
+   	  font-weight: 900;
+   	  font-size: 26px;
+      padding-left: 0;
+      color: white;
+   	  margin-left:30px;
+   	  /*margin-bottom: 50px;
+      margin-top: 130px;
+   	}
+.email{
+    	text-align:center;
+      margin-top: 0;
+   		margin-left:26px;
+    }
+
+    .email input{
+      padding: 5px 10px 5px 35px;
+      margin-top: 0;
+    	width:130%;
+      height:30px;
+      border-radius: 20px;
+    }
+
+    .icon{
+      position:absolute;
+      padding:13px 8px;
+    }
+
+.password{
+    	text-align:center;
+   		margin:40px;
+    }
+
+    .password input{
+      padding: 5px 10px 5px 35px;
+	    width:130%;
+   		height:30px;
+      border-radius: 20px;
+     }
+
+    .icon2{
+      position:absolute;
+      padding:13px 8px;
+    }
+
+
+    .signin{
+    	text-align:center;
+   		margin:50px;
+    }
+
+    .signin input{
+    	width:50%;
+   		height:40px;
+       background: #41A317;
+       color: white;
+       padding: 4px;
+       border-color: #008000;
+       font-size: 1em;
+       margin-bottom: 40px;
+   	}
+
+  .signin input:hover{
+      background-color: #008000;
+  }*/

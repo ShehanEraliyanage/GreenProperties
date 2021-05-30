@@ -1,0 +1,138 @@
+
+
+ a.a1:hover{
+    background-color: rgb(243, 239, 239);
+
+}
+a.a1:active{
+    background-color: seagreen;
+}
+
+
+
+.p1{
+    
+    font-size: 30px;
+    width: 13%;
+    text-align: center;
+    margin-top: 70px;
+    height:40px;
+    background-color: #baf7a2;
+    box-shadow:2px 3px teal;
+    margin-top: 80px;
+}
+
+img{
+    width:300px;
+    height:200px;
+    margin-bottom: 1px;
+   
+}
+
+.gallery{
+
+   margin:10px 50px 10px 50px;
+   width:300px;
+   height:425px;
+   float:left;
+   background-color:rgb(196, 253, 213);
+
+}
+.gallery:hover{
+    border:3px solid green;
+    border-radius:2px;
+    background-color: rgb(238, 253, 207);
+}
+.desc{
+    margin-left: 12px;
+}
+.size{
+    font-size: 25px;
+    color: rgb(148, 138, 138);
+    
+}
+.type{
+    border:1px solid rgb(108, 236, 69);
+    color:green;
+    text-align: center;
+    width:95px;
+    height:28px;
+    border-radius: 6px;
+}
+
+.link{
+    color: rgb(30, 128, 123);
+}
+
+.link:hover{
+    color:rgb(16, 16, 61)
+}
+
+.features{
+    display: flex;
+    margin:500px 40px 0px 40px;
+    background-color: #baf7a2;
+    box-shadow:2px 3px teal;
+    text-align: center;
+    width:210px;
+    font-size: 25px;
+    height: 50px;
+    
+}
+
+.f_gallery{
+    display: flex;
+    border:1px solid rgb(13, 14, 13);
+    margin:60px 15px 120px 50px;
+    width:180px;
+    height:150px;
+    float:left;  
+
+}
+.im{
+    height:150px;
+    width:180px;
+   
+}
+
+.f_gallery:hover{
+   opacity: 0.6;
+    transition:0.3s ease-out;
+}
+
+.box ul{
+    list-style: none;
+    margin-top:-150px;
+    padding:0 0 50px 0;   
+}
+.box{
+   
+    margin-bottom: 20px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 500px;
+    
+}
+
+.box li{
+    border:3px solid rgb(55, 190, 37);
+    width:50px;
+    height:40px;
+    text-align: center;
+    border-radius:6px;
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+    margin-bottom: 50px;
+}
+
+.box li:hover{
+    background-color: rgb(224, 252, 196);
+    box-shadow: 4px 4px green;
+}
+
+.box li:active{
+    background-color: greenyellow;
+}
+

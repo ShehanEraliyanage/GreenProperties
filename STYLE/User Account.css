@@ -1,0 +1,150 @@
+.area1{
+  background-image: url("../IMAGES/UserAc.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 1000px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: -405px;
+  filter: blur(5px);
+  
+}
+
+.main{
+  transform: translate(5%,-70%);
+  margin-bottom: -1000px;
+  margin-right: 140px;
+  
+}
+
+
+
+.main form .title{
+    text-align:center;
+    font-style: bold;
+    font-weight: 900;
+    font-size: 26px;
+    margin:30px;
+    margin-bottom: 50px;
+    margin-top: 90px;
+  }
+
+  .main form .details
+{
+  display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+
+   
+  .newAd a{
+    margin: 0 8px 0 0;
+    padding: 6px 15px;
+    border-radius: 50px;
+    background: #41A317; 
+    color: #fff;
+    text-decoration: none ! important;
+    border:2px solid #41A317;
+}
+
+
+  .newAd a:hover{
+    background-color: #008000;
+}
+
+.newAd p{
+  margin-top: 15px;
+}
+  .newAd{
+      text-align: right;
+      margin:0 80px 10px 0; 
+      padding:0 30px ;
+      font-size:19px;
+      font-weight:700;
+  }
+
+  .page{
+      margin-left: 40px;
+  }
+
+  .change-button{
+    text-align:left;
+    margin:210px 0px 0 110px;
+ 
+}
+
+.change-button input{
+  width:8%;
+  height:30px;
+}
+.change-button input:hover{
+  background-color: #c4ffc4;
+}  
+
+  .user{
+      font-size:15px;
+      margin:15px 0 30px 0;
+      margin-left: 70px;
+    
+  }
+
+.user input{
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+}
+  
+  .sub-topic{
+    font-size:17px;
+    padding:10px 0 20px 0;
+    margin-left: 50px;
+    font-weight: bold;
+    
+  }
+
+  .sub-topic input,textarea,select{
+    border: 3px solid #008000;
+  }
+
+.boxset{
+  margin-left: -220px;
+  margin-top:100px;
+}
+
+  .box{
+    margin:8px 250px 0 0;
+    padding:5px;
+    line-height:25px;
+    width:300px;
+    height:30px;
+    border-radius: 20px;
+    outline: none;
+  }
+
+  
+.save{
+      text-align:right;
+      margin:25px 300px 0 0;
+      padding:0 60px 60px 0;
+      font-size:14px;
+      font-weight:500 ;
+  }
+
+  .save input{
+    width:10%;
+    height:40px;
+    width:15%;
+    height:40px;
+    background: #41A317;
+    color: white;
+    padding: 4px;
+    border-color: #008000;
+    font-size: 1em;
+  }
+
+  .save input:hover{
+    background-color: #008000;
+}
+
+ 

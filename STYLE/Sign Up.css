@@ -1,0 +1,148 @@
+.area1{
+  background-image: url("../IMAGES/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: -55px;
+  filter: blur(5px);
+}
+
+
+.main{
+  transform: translate(5%,-129%);
+  margin-bottom: -630px;
+  margin-right: 140px;
+}
+
+.main form .title
+{
+  margin-left: 5px;
+  margin-top: 150px;
+  margin-bottom: 45px;
+  margin-right: 5px;
+    font-size: 30px;
+    color: #ffff;
+    text-shadow: 0 0 4px #333;
+    font-weight: 600;
+    position: relative;
+}
+
+
+
+   	.title{
+   	  text-align:center;
+   	  font-style: bold;
+      
+   	  font-weight: 900;
+   	  font-size: 26px;
+   	  margin:30px;
+   	  margin-bottom: 50px;
+      margin-top: 150px;
+   	}
+
+
+   	.name{
+   		text-align:center;
+   		margin:25px;
+       
+   	}
+
+   	.name input{
+      padding: 5px 10px 5px 35px;
+   		width: 40%;
+   		height:35px;
+      border-radius: 15px;
+   	}
+
+
+    .icon1{
+      position:absolute;
+      left:o;
+      padding:15px 15px;
+    }
+
+
+    .email{
+    	text-align:center;
+   		margin:25px;
+    }
+
+    .email input{
+      padding: 5px 10px 5px 35px;
+    	width:40%;
+   		height:35px;
+      border-radius: 15px;
+    }
+
+    .icon2{
+      position:absolute;
+      left:o;
+      padding:15px 15px;
+    }
+
+
+    .password{
+    	text-align:center;
+   		margin:25px;
+    }
+
+    .password input{
+      padding: 5px 10px 5px 35px;
+	    width:40%;
+   		height:35px;
+      border-radius: 15px;
+    }
+
+    .icon3{
+      position:absolute;
+      left:o;
+      padding:15px 15px;
+    }
+
+
+    .confirm{
+    	text-align:center;
+   		margin:25px;
+    }
+
+    .confirm input{
+      padding: 5px 10px 5px 35px;
+    	width:40%;
+   		height:35px;
+      border-radius: 15px;
+    }
+
+    .icon4{
+      position:absolute;
+      left:o;
+
+      padding:15px 15px;
+    }
+
+
+    .signup{
+    	text-align:center;
+   		margin:40px;
+    }
+
+    .signup input{
+    	width:10%;
+   		height:40px;
+       background: #94af88;
+       color:  #030303;
+       padding: 4px;
+       border-color: #008000;
+       font-size: 0.9em;
+       margin-bottom: 40px;
+    
+    }
+
+    .signup input:hover{
+      background-color: #549954;
+      
+  }
+
+

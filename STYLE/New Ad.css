@@ -1,0 +1,162 @@
+
+*{
+  margin:0px;
+  padding:0px;
+  font-family:sans-serif;
+}
+
+body {
+  margin:0px;
+  height:100px;
+}
+
+.area1{
+  background-image: url("../IMAGES/NewAd.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 640px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: -620px;
+  filter: blur(5px); 
+}
+
+.main{
+  transform: translate(5%,-1%);
+  margin-bottom: 120px;
+  margin-right: 150px; 
+}
+
+
+h2{
+  font-size:30px;
+  padding: 40px;
+  margin-left: 10px;
+}
+
+.sub-topic{
+  font-size:20px;
+  padding:10px 0 20px 0;
+  margin-left: 50px;
+  font-weight: bold;
+  
+}
+
+.sub-topic input,textarea,select{
+  border: 3px solid #008000;
+}
+
+.boxset{
+margin-left: -220px;
+margin-top:100px;
+}
+
+.box{
+  margin:8px 250px 0 0;
+  padding:5px;
+  line-height:25px;
+  width:300px;
+  height:40px;
+  border-radius: 20px;
+  outline: none;
+}
+
+.center {
+  height:100%;
+  margin-top:20px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.form-input {
+  width:250px;
+  padding:0px;
+}
+.form-input input {
+  display:none; 
+}
+
+.form-input label {
+  display:block;
+  width:90%;
+  height:4px;
+  line-height:50px;
+  text-align:center;
+  background:#618060;
+  color:#fff;
+  font-size:15px;
+  font-family:"Open Sans",sans-serif;
+  text-transform:Uppercase;
+  font-weight:600;
+  border-radius:50px;
+  border: 3px solid rgb(4, 94, 8);
+  cursor:pointer;
+  padding-bottom:50px;
+}
+ 
+.form-input img {
+  width:100%;
+  display:none;
+  margin-top:10px;
+}
+
+.Upload-img{
+  margin-top:-225px;
+  margin-right:-200px; 
+}
+.Upload-img h4{
+  margin-left: 675px;
+}
+
+.upload-topic{
+  margin-left: 635px;
+  font-size: 20px;
+}
+
+.wrapper{
+  border-radius: 20px;
+  border: 3px solid rgb(4, 94, 8);
+  outline: none;
+  margin-left:15px;
+  padding:12px;
+ }
+
+ .addes{
+   margin-left: 35px;
+   margin-top: 30px;
+ }
+
+ .addes h3{
+   margin-bottom: -10px;
+   margin-left: 15pt;
+ }
+
+ .pay_post{
+  text-align:right;
+  margin:-30px 300px 0 0;
+  padding:-10px 0px 60px 0;
+  font-size:14px;
+  font-weight:500 ;
+ 
+}
+
+.pay_post a{
+  margin: 0 8px 0 0;
+  padding: 8px 15px;
+  border-radius: 50px;
+  background: #41A317; 
+  color: #fff;
+  text-decoration: none ! important;
+  border:2px solid #ffffff;
+}
+
+.pay_post a:hover{
+background-color: #008000;
+}
+
+
+ 
+
+ 
+ 

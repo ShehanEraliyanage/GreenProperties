@@ -1,0 +1,147 @@
+
+.p1{
+    border:1px solid #baf7a2 ;
+    border-radius: 8px;
+    font-size: 30px;
+    width: 25%;
+    text-align: center;
+    height:45px;
+    background-color: #baf7a2;
+    box-shadow:2px 3px teal;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+
+.topic{
+   text-align: center;
+   font-size: 30px;
+   width:50px;
+   height:80px;
+   
+}
+img{
+    width:300px;
+    height:200px;
+    margin-bottom: 1px;
+   
+}
+
+.gallery{
+   
+   margin:90px 50px 50px 50px;
+   width:300px;
+   height:465px;
+   float:left;
+   background-color:rgb(196, 253, 213);
+}
+.gallery:hover{
+   
+    border-radius:2px;
+    background-color: rgb(238, 253, 207);
+}
+.desc{
+    margin-left: 12px;
+    margin-bottom: 12px;
+}
+.size{
+    font-size: 25px;
+    color: rgb(148, 138, 138);
+    margin-bottom: 12px;
+    margin-top: 12px;;
+
+    
+}
+.type{
+    border:1px solid rgb(108, 236, 69);
+    color:green;
+    text-align: center;
+    width:95px;
+    height:28px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+}
+
+.p5{
+    margin-top: 60px;
+}
+.link{
+    color: rgb(26, 150, 143);
+    
+    
+}
+
+.link:hover{
+    color:rgb(16, 16, 61)
+}
+
+.features{
+    display: flex;
+    text-align: center;
+    width:450px;
+    height: 70px;
+    border:1px solid #baf7a2 ;
+    border-radius: 8px;
+    font-size: 30px;
+    background-color: #baf7a2;
+    box-shadow:5px 5px teal;
+    margin: 40px;
+}
+
+.f_gallery{
+    
+    border:1px solid rgb(13, 14, 13);
+    margin:20px 30px 10px 20px;
+    width:180px;
+    height:150px;
+    float:left;
+    
+
+}
+
+.im{
+    height:150px;
+    width:180px;
+   
+}
+
+.f_gallery:hover{
+ opacity: 0.6;
+}
+
+.box ul{
+    list-style: none;
+    margin:60px;
+    padding:0px;   
+}
+.box{
+   
+    margin-bottom: 10px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 300px;
+    position: relative;
+}
+
+.box li{
+    border:3px solid rgb(55, 190, 37);
+    width:50px;
+    height:40px;
+    text-align: center;
+    border-radius:6px;
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+    margin-bottom: 50px;
+}
+
+.box li:hover{
+    background-color: rgb(224, 252, 196);
+    box-shadow: 4px 4px green;
+
+}
+
+.box li:active{
+    background-color: greenyellow;
+}
